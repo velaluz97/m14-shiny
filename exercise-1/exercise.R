@@ -6,6 +6,7 @@ df <- read.csv('https://raw.githubusercontent.com/plotly/datasets/master/2014_us
 
 # Load your buildMap.R Script
 
+source('./scripts/buildmap.r')
 
 # Use your BuildMap function to draw a map of the data
 

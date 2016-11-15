@@ -1,4 +1,5 @@
 ### Exercise 2 ###
+install.packages('shiny')
 
 library(shiny)
 
